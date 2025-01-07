@@ -1,19 +1,15 @@
 <!-- <div align="center"> -->
 <div>
   <strong>Fullstack JavaScript Developer</strong>
-  
-  <br>  
+  <br><br>
   · <a href="https://andrewkagotho.github.io/portfolio/">Portfolio</a> ·
-  
-  <br>
+  <br><br>
   <a href="https://www.linkedin.com/in/andrew-k-2447b0181/" align="center">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge">
   </a>
-  
-  <br>
+  <br><br>
   <strong>Development:</strong>
-  
-  <br>
+  <br><br>
   <img src="https://img.shields.io/badge/typescript-FFF?style=for-the-badge&logo=typescript">
   <img src="https://img.shields.io/badge/javascript-221E68?style=for-the-badge&logo=javascript">
   <img src="https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react">
@@ -35,11 +31,9 @@
   <img src="https://img.shields.io/badge/php-FFF?style=for-the-badge&logo=php">
   <img src="https://img.shields.io/badge/firebase-B7178C?style=for-the-badge&logo=firebase">
   <img src="https://img.shields.io/badge/sequelize-4B4B77?style=for-the-badge&logo=sequelize">
-  
-  <br>
+  <br><br>
   <strong>Tools:</strong>
-  
-  <br>
+  <br><br>
   <img src="https://img.shields.io/badge/amazonwebservices-006272?style=for-the-badge&logo=amazonwebservices">
   <img src="https://img.shields.io/badge/googlecloud-4B4B77?style=for-the-badge&logo=googlecloud">
   <img src="https://img.shields.io/badge/netlify-006600?style=for-the-badge&logo=netlify">
@@ -51,9 +45,7 @@
   <img src="https://img.shields.io/badge/vim-006600?style=for-the-badge&logo=vim">
   <img src="https://img.shields.io/badge/npm-B7178C?style=for-the-badge&logo=npm">
   <img src="https://img.shields.io/badge/yarn-4B4B77?style=for-the-badge&logo=yarn">
-  
-  <br>
-  
+  <br><br>  
   <details open>
     <summary>GitHub Stats</summary>
     <br>
