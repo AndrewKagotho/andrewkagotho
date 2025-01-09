@@ -1,4 +1,5 @@
-<h1>Fullstack Web Developer</h1>
+<h1>Fullstack WebDev</h1>
+
 <strong>My projects:</strong>
 <br><br>
 <a href="https://andrewkagotho.github.io/portfolio/">
