@@ -1,3 +1,4 @@
+<h1>Fullstack Web Developer</h1>
 <strong>My projects:</strong>
 <br><br>
 <a href="https://andrewkagotho.github.io/portfolio/">
