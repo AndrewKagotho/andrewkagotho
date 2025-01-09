@@ -1,9 +1,3 @@
-<strong>How to reach me:</strong>
-<br><br>
-<a href="mailto:andrewkagotho7@live.com?subject=Hello">
-<img src="https://img.shields.io/badge/email-fff?style=for-the-badge&logo=gmail" alt="Email">
-</a>
-<br><br>
 <strong>My projects:</strong>
 <br><br>
 <a href="https://andrewkagotho.github.io/portfolio/">
@@ -32,3 +26,9 @@
 <img src="https://img.shields.io/badge/git-535cac?style=for-the-badge&logo=git" alt="Git">
 <img src="https://img.shields.io/badge/sequelize-323767?style=for-the-badge&logo=sequelize" alt="Sequelize">
 <img src="https://img.shields.io/badge/postman-42498a?style=for-the-badge&logo=postman" alt="Postman">
+<br><br>
+<strong>How to reach me:</strong>
+<br><br>
+<a href="mailto:andrewkagotho7@live.com?subject=Hello">
+<img src="https://img.shields.io/badge/email-fff?style=for-the-badge&logo=gmail" alt="Email">
+</a>
