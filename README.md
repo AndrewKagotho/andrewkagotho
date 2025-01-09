@@ -23,12 +23,13 @@
 <img src="https://img.shields.io/badge/firebase-42498a?style=for-the-badge&logo=firebase" alt="Firebase">
 <img src="https://img.shields.io/badge/supabase-535cac?style=for-the-badge&logo=supabase" alt="Supabase">
 <img src="https://img.shields.io/badge/mysql-323767?style=for-the-badge&logo=mysql" alt="MySQL">
-<img src="https://img.shields.io/badge/vim-42498a?style=for-the-badge&logo=vim" alt="Vim">
-<img src="https://img.shields.io/badge/git-535cac?style=for-the-badge&logo=git" alt="Git">
+<img src="https://img.shields.io/badge/git-42498a?style=for-the-badge&logo=git" alt="Git">
+<img src="https://img.shields.io/badge/vim-535cac?style=for-the-badge&logo=vim" alt="Vim">
 <img src="https://img.shields.io/badge/sequelize-323767?style=for-the-badge&logo=sequelize" alt="Sequelize">
-<img src="https://img.shields.io/badge/postman-42498a?style=for-the-badge&logo=postman" alt="Postman">
+<img src="https://img.shields.io/badge/swagger-42498a?style=for-the-badge&logo=swagger" alt="Postman">
+<img src="https://img.shields.io/badge/postman-535cac?style=for-the-badge&logo=postman" alt="Postman">
 <br><br>
-<strong>How to reach me:</strong>
+<strong>Send an email:</strong>
 <br><br>
 <a href="mailto:andrewkagotho7@live.com?subject=Hello">
 <img src="https://img.shields.io/badge/email-fff?style=for-the-badge&logo=gmail" alt="Email">
