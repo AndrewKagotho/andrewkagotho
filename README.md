@@ -1,13 +1,13 @@
 <strong>How to reach me:</strong>
 <br><br>
 <a href="mailto:andrewkagotho7@live.com?subject=Hello">
-<img src="https://img.shields.io/badge/email-fff?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/email-fff?style=for-the-badge&logo=gmail" alt="Email">
 </a>
 <br><br>
 <strong>My projects:</strong>
 <br><br>
 <a href="https://andrewkagotho.github.io/portfolio/">
-<img src="https://img.shields.io/badge/portfolio-fff?style=for-the-badge&logo=googlechrome">
+<img src="https://img.shields.io/badge/portfolio-fff?style=for-the-badge&logo=googlechrome" alt="Website">
 </a>
 <br><br>
 <strong>Technologies:</strong>
