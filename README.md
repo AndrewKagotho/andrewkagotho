@@ -21,8 +21,14 @@
 <img src="https://img.shields.io/badge/sequelize-323767?style=for-the-badge&logo=sequelize">
 <img src="https://img.shields.io/badge/postman-42498a?style=for-the-badge&logo=postman">
 <br><br>
-<strong>Contact:</strong>
+<strong>How to reach me:</strong>
 <br><br>
 <a href="mailto:andrewkagotho7@live.com?subject=Hello">
-<img src="https://img.shields.io/badge/email-535cac?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/email-fff?style=for-the-badge&logo=gmail">
+</a>
+<br><br>
+<strong>My projects:</strong>
+<br><br>
+<a href="https://andrewkagotho.github.io/portfolio/">
+<img src="https://img.shields.io/badge/portfolio-fff?style=for-the-badge&logo=googlechrome">
 </a>
