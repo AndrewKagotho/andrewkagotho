@@ -27,8 +27,9 @@
 <img src="https://img.shields.io/badge/git-42498a?style=for-the-badge&logo=git" alt="Git">
 <img src="https://img.shields.io/badge/vim-535cac?style=for-the-badge&logo=vim" alt="Vim">
 <img src="https://img.shields.io/badge/sequelize-323767?style=for-the-badge&logo=sequelize" alt="Sequelize">
-<img src="https://img.shields.io/badge/swagger-42498a?style=for-the-badge&logo=swagger" alt="Postman">
+<img src="https://img.shields.io/badge/swagger-42498a?style=for-the-badge&logo=swagger" alt="Swagger">
 <img src="https://img.shields.io/badge/postman-535cac?style=for-the-badge&logo=postman" alt="Postman">
+<img src="https://img.shields.io/badge/java-323767?style=for-the-badge&logo=java" alt="Java">
 <br><br>
 <strong>Send an email:</strong>
 <br><br>
