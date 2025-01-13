@@ -19,17 +19,18 @@
 <img src="https://img.shields.io/badge/node.js-535cac?style=for-the-badge&logo=node.js" alt="Node">
 <img src="https://img.shields.io/badge/deno-323767?style=for-the-badge&logo=deno" alt="Deno">
 <img src="https://img.shields.io/badge/express-42498a?style=for-the-badge&logo=express" alt="Express">
-<img src="https://img.shields.io/badge/mongodb-535cac?style=for-the-badge&logo=mongodb" alt="MongoDB">
+<img src="https://img.shields.io/badge/oak-535cac?style=for-the-badge&logo=oak" alt="Oak">
 <img src="https://img.shields.io/badge/aws-323767?style=for-the-badge&logo=amazonwebservices" alt="AWS">
 <img src="https://img.shields.io/badge/firebase-42498a?style=for-the-badge&logo=firebase" alt="Firebase">
 <img src="https://img.shields.io/badge/supabase-535cac?style=for-the-badge&logo=supabase" alt="Supabase">
 <img src="https://img.shields.io/badge/mysql-323767?style=for-the-badge&logo=mysql" alt="MySQL">
-<img src="https://img.shields.io/badge/git-42498a?style=for-the-badge&logo=git" alt="Git">
-<img src="https://img.shields.io/badge/vim-535cac?style=for-the-badge&logo=vim" alt="Vim">
+<img src="https://img.shields.io/badge/mongodb-42498a?style=for-the-badge&logo=mongodb" alt="MongoDB">
+<img src="https://img.shields.io/badge/git-535cac?style=for-the-badge&logo=git" alt="Git">
 <img src="https://img.shields.io/badge/sequelize-323767?style=for-the-badge&logo=sequelize" alt="Sequelize">
 <img src="https://img.shields.io/badge/swagger-42498a?style=for-the-badge&logo=swagger" alt="Swagger">
 <img src="https://img.shields.io/badge/postman-535cac?style=for-the-badge&logo=postman" alt="Postman">
 <img src="https://img.shields.io/badge/java-323767?style=for-the-badge&logo=java" alt="Java">
+<img src="https://img.shields.io/badge/vim-42498a?style=for-the-badge&logo=vim" alt="Vim">
 <br><br>
 <strong>Send an email:</strong>
 <br><br>
