@@ -2,7 +2,7 @@
 
 <strong>My projects:</strong>
 <br><br>
-<a href="https://andrewkagotho.github.io/portfolio/">
+<a href="https://andrewkagotho.netlify.app/">
 <img src="https://img.shields.io/badge/portfolio-fff?style=for-the-badge&logo=googlechrome" alt="Website">
 </a>
 <br><br>
