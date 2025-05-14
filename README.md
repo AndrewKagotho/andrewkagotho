@@ -1,4 +1,4 @@
-<h1>Fullstack WebDev</h1>
+<h1>Software Engineer</h1>
 
 <strong>My projects:</strong>
 <br><br>
@@ -26,11 +26,12 @@
 <img src="https://img.shields.io/badge/mysql-323767?style=for-the-badge&logo=mysql" alt="MySQL">
 <img src="https://img.shields.io/badge/mongodb-42498a?style=for-the-badge&logo=mongodb" alt="MongoDB">
 <img src="https://img.shields.io/badge/git-535cac?style=for-the-badge&logo=git" alt="Git">
-<img src="https://img.shields.io/badge/sequelize-323767?style=for-the-badge&logo=sequelize" alt="Sequelize">
+<img src="https://img.shields.io/badge/docker-323767?style=for-the-badge&logo=docker" alt="Docker">
 <img src="https://img.shields.io/badge/swagger-42498a?style=for-the-badge&logo=swagger" alt="Swagger">
 <img src="https://img.shields.io/badge/postman-535cac?style=for-the-badge&logo=postman" alt="Postman">
-<img src="https://img.shields.io/badge/java-323767?style=for-the-badge&logo=java" alt="Java">
-<img src="https://img.shields.io/badge/vim-42498a?style=for-the-badge&logo=vim" alt="Vim">
+<img src="https://img.shields.io/badge/sequelize-323767?style=for-the-badge&logo=sequelize" alt="Sequelize">
+<img src="https://img.shields.io/badge/java-42498a?style=for-the-badge&logo=java" alt="Java">
+<img src="https://img.shields.io/badge/vim-535cac?style=for-the-badge&logo=vim" alt="Vim">
 <br><br>
 <strong>Send an email:</strong>
 <br><br>
